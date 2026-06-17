@@ -1,0 +1,8 @@
+nflreadpy@git+https://github.com/nflverse/nflreadpy
+pandas
+numpy
+scipy
+xgboost
+scikit-learn
+matplotlib
+streamlit
